@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Advanced Product Owner Handbuch"
+    url: https://manual.advancedproductowner.com
+  - title: "Advanced Product Owner"
+    url: https://advancedproductowner.com
+
+mooc:
+  - title: MOOC
+    children:
+    - title: Organisatorisches
+      url: /organisatorisches/
+    - title: Handbuch
+      url: /handbuch/
+    - title: Training
+      url: /training/
