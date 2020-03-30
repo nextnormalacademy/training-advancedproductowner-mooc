@@ -31,6 +31,7 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Delivery Kanban][29] ([direkt zur Diskussion][30])
 * [Real Options][31] ([direkt zur Diskussion][32])
 
+
 Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
 
 ---- 

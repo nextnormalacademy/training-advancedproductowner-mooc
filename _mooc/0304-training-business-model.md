@@ -1,6 +1,6 @@
 ---
-title: Das Business Model beschreiben
-permalink: /training/business-modell-beschreiben/
+title: Business Model
+permalink: /training/business-model/
 ---
 
 ## Werkzeuge und Methoden
