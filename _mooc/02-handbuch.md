@@ -31,8 +31,8 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Delivery Kanban][29] ([ direkt zur Diskussion ][30])
 * [Real Options][31] ([direkt zur Diskussion][32])
 
-Alle Kapitel, die für eine Trainingseinheit relevant sind, sind dort verlinkt.
-
+Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
+---- 
 Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus dem Handbuch austauschen.
 
 [1]:	https://manual.adavancedproductowner.com/ "Advanced Product Owner Manual"
