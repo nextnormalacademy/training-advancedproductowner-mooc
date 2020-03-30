@@ -32,7 +32,9 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Real Options][31] ([direkt zur Diskussion][32])
 
 Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
+
 ---- 
+
 Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus dem Handbuch austauschen.
 
 [1]:	https://manual.adavancedproductowner.com/ "Advanced Product Owner Manual"
