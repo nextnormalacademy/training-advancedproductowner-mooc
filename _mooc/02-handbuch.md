@@ -5,8 +5,11 @@ permalink: /handbuch/
 
 Wir schreiben ein [Handbuch][1], das dich durch den #apoMOOC begleitet.
 
-Das Handbuch bietet dir eine Einführung in alle Werkzeuge und Methoden, die Teil der *Product Owner Value Chain* sind.
-Im [Training][2] lernst Du, wie Du diese  Werkzeuge und Methoden kombinierst.
+Das Handbuch bietet dir eine Einführung in alle Werkzeuge und Methoden, die Teil der **Product Owner Value Chain** sind.
+In den einzelnen Kapiteln lernst Du die Werkzeuge und Methoden näher kennen.
+
+Im [Training][2] lernst Du strukturiert, wie Du diese Werkzeuge und Methoden anwendest und kombinierst.
+Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Training.
 
 {% include figure image_path="/assets/images/apo-value-chain.jpg" alt="The Prodcut Owner's value chain" caption="The Prodcut Owner's value chain." %}
 
