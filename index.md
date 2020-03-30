@@ -7,8 +7,8 @@ sidebar:
 
 ## Was erwartet Dich in diesem Kurs?
 
-Das apoMOOC-Projekt ist eine freie Aus- und Weiterbildung für Product Owner und Produktmanager.
-Frei bedeutet dabei sowohl die kostenfreie Teilnahme für jede Interessierte, als auch freie Bildungsinhalte ([Open Educational Resources – OER][1]) in Form eines interaktiven, multimedialen Kursbuches mit flexiblen Lernpfaden für unterschiedliche Zielgruppen.
+Der Advanced Product Owner-MOOC ist eine freie Aus- und Weiterbildung für Product Owner und Produktmanager.
+Frei bedeutet dabei sowohl die kostenfreie Teilnahme für alle Interessierten, als auch freie Bildungsinhalte ([Open Educational Resources – OER][1]) in Form eines interaktiven, multimedialen Kursbuches mit flexiblen Lernpfaden für unterschiedliche Zielgruppen.
 
 Die folgenden Qualifizierungsthemen (Curricula) sind für das erste Jahr des apoMOOC-Projektes (2020) geplant:
 
@@ -24,12 +24,13 @@ Du kannst entsprechend Deines Lerntyps lernen, durch Videos und Podcasts, durch 
 {% capture relevant-note %}
 ## Was kannst du in diesem Kurs lernen?
 
-* Du lernst ein guter Product Owner zu werden oder ein noch besserer Product Owner zu sein, oder Du lernst die zahlreichen Aufgaben von Product Ownern zu verstehen.
+* Du lernst ein guter Product Owner zu werden oder ein noch besserer Product Owner zu sein.
+* Du lernst die zahlreichen Aufgaben eines Product Owners zu meistern.
 * Du lernst wie Du als Product Owner entlang der Value Chain von der Idee bis zur Anwendung beim Kunden arbeiten kannst.
 * Du lernst, ob Du selbst Product Owner sein möchtest, oder ob Du Product Owner in einem der zahlreichen Aufgabengebiete als Experte unterstützen möchtest.
 * Du lernst Theorie und Praxis anhand eines durchgängigen Beispiels, das Dich an allen Herausforderungen des Product Owner-Lebens vorbei führt.
-* Du lernst es aus den besten Quellen und besten Experten über das Internet (Dokumente, Videos, Podcasts) und erhältst freie Vorlagen, die Du nur noch für Dich anpassen musst.
-* Du tauschst Dich mit Experten und Gleichgesinnten aus ganz D-A-CH (Deutschland-Österreich-Schweiz) aus und lernst von Ihnen und sie lernen von Dir.
+* Du lernst es aus den besten Quellen und von den besten Experten über das Internet (Dokumente, Videos, Podcasts) und erhältst freie Vorlagen, die Du nur noch für Dich anpassen musst.
+* Du tauschst Dich mit Experten und Gleichgesinnten in der deutschsprachigen Product Owner Community aus und lernst von Ihnen und sie lernen von Dir.
 {% endcapture %}
 
 <div class="notice--info">
@@ -89,11 +90,10 @@ In diesem Kurs kannst du Badges erhalten.
 
 ## Lizenz
 
-Sofern nicht gesondert angegeben, sind die Inhalte dieses Kurses lizenziert unter einer [Creative Commons - Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA)][6].
+Sofern nicht gesondert angegeben, sind die Inhalte dieses Kurses lizenziert unter der
 
 [1]: https://aracube.actchange.com/oer-freie-bildungsinhalte/ "OER – freie Bildungsinhalte"
 [2]: https://twitter.com/gerritbeine "Twitter-Profil von Gerrit Beine"
 [3]: https://www.linkedin.com/in/gerritbeine "LinkedIn-Profil von Gerrit Beine"
 [4]: https://www.linkedin.com/in/sarah-wieske-845986ba/ "LinkedIn-Profil von Sarah Wieske"
 [5]: https://www.darcblue.com/ "DARCBLUE AG"
-[6]: https://creativecommons.org/licenses/by-sa/4.0/deed.de "Creative Commons - Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA)"
