@@ -15,20 +15,20 @@ Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Tr
 
 Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs springen:
 
-* [Start ins Handbuch][3] ([ direkt zur Diskussion ][4]) 
-* [Kunden][5] ([ direkt zur Diskussion ][6])
-* [Persona][7] ([ direkt zur Diskussion ][8])
-* [Empathy Map][9] ([ direkt zur Diskussion ][10])
-* [Value Proposition][11] ([ direkt zur Diskussion ][12])
-* [Business Model][13] ([ direkt zur Diskussion ][14])
-* [Nutzenmodell][15] ([ direkt zur Diskussion ][16])
-* [Stakeholder Map][17] ([ direkt zur Diskussion ][18])
-* [Inception Deck][19] ([ direkt zur Diskussion ][20])
-* [Roadmap][21] ([ direkt zur Diskussion ][22])
-* [Impact Map][23] ([ direkt zur Diskussion ][24])
-* [Story Map][25] ([ direkt zur Diskussion ][26])
+* [Start ins Handbuch][3] ([direkt zur Diskussion][4]) 
+* [Kunden][5] ([direkt zur Diskussion][6])
+* [Persona][7] ([direkt zur Diskussion][8])
+* [Empathy Map][9] ([direkt zur Diskussion][10])
+* [Value Proposition][11] ([direkt zur Diskussion][12])
+* [Business Model][13] ([direkt zur Diskussion][14])
+* [Nutzenmodell][15] ([direkt zur Diskussion][16])
+* [Stakeholder Map][17] ([direkt zur Diskussion][18])
+* [Inception Deck][19] ([direkt zur Diskussion][20])
+* [Roadmap][21] ([direkt zur Diskussion][22])
+* [Impact Map][23] ([direkt zur Diskussion][24])
+* [Story Map][25] ([direkt zur Diskussion][26])
 * [Product Backlog][27] ([direkt zur Diskussion][28])
-* [Delivery Kanban][29] ([ direkt zur Diskussion ][30])
+* [Delivery Kanban][29] ([direkt zur Diskussion][30])
 * [Real Options][31] ([direkt zur Diskussion][32])
 
 Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
