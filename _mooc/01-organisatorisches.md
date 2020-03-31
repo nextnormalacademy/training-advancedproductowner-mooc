@@ -24,13 +24,13 @@ Wir freuen uns auch, wenn Du uns auf Twitter folgst und über deine Erfahrungen 
 Der #apoMOOC besteht aus zwei Teilen.
 Zum einen gibt es diese MOOC hier auf dem oncampus.
 Hier findet der interaktive Teil des Kurses und der Austausch mit anderen Teilnehmern statt.
-Zum anderen gibt es das Advanced Product Owner Manual, das wir [nächsten Kapitel][4] ausführlicher erklären.
+Zum anderen gibt es das Advanced Product Owner Manual, das wir im [nächsten Kapitel][4] ausführlicher erklären.
 
 Der Kurs führt dich anhand eines durchgänigen Beispiels durch alle Bestandteile der **Product Owner Value Chain**.
 Du lernst also alle  Werkzeuge und Methoden kennen, die für dich als Prodcut Owner nützlich sein könnten und wie sie zusammenspielen.
 
 Dazu veröffentlichen wir jede Woche eine Lektion, die dich einen Schritt entlang der **Product Owner Value Chain** führt.
-Zu jeder Lektion gibt es einige Fragen und eine Aufgaben.
+Zu jeder Lektion gibt es einige Fragen und eine Aufgabe.
 Das Ergebnis der Aufgabe kannst du über das Forum mit anderen Teilnehmern teilen.
 Wenn du deine Lösung geteilt hast und mindestens zwei anderen Teilnehmern Feedback zu ihren Lösungen gegeben hast, wird die nächste Lektion automatisch freigeschaltet.
 
