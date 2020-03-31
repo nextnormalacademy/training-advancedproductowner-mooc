@@ -39,7 +39,7 @@ Du kannst entsprechend Deines Lerntyps lernen, durch Videos und Podcasts, durch 
 
 ## Wie ist der Kurs aufgebaut?
 
-Die apoMOOC führt dich anhand der Product Owner Value Chain durch ein Beispiel.
+Der #apoMOOC führt dich anhand eines Beispiels durch die Product Owner Value Chain.
 
 * Von der Idee zur Persona
 * Von der Persona zur Empathy Map
