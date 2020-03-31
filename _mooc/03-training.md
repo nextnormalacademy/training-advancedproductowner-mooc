@@ -3,7 +3,7 @@ title: Training
 permalink: /training/
 ---
 
-Im #apoMOOC-Training lernst Du strukturiert, wie Du diese Werkzeuge und Methoden aus der **Product Owner Value Chain** anwendest und kombinierst.
+Im #apoMOOC-Training lernst Du strukturiert, wie Du die Werkzeuge und Methoden aus der **Product Owner Value Chain** anwendest und kombinierst.
 Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Training.
 
 Zu jeder Lektion gibt es eine Aufgabe. Deine Lösung kannst Du im Forum teilen und mit anderen diskutieren.
