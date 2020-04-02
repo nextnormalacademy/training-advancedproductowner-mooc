@@ -27,7 +27,7 @@ Deshalb versprechen wir:
 
 ## Du bist Product Owner!
 
-Wir haben dich einladen, Product Owner für dieses spannende Produkt zu sein, das die Welt des Lesens und der Pizza für immer verändern wird…
+Wir haben dich eingeladen, Product Owner für dieses spannende Produkt zu sein, das die Welt des Lesens und der Pizza für immer verändern wird…
 
 Starte gleich mit [der ersten Lektion][1]!
 
