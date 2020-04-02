@@ -15,7 +15,7 @@ Wir sind der größte Fachbuchhändler in Europa und wollen nun in ein neues Ges
 
 ## Unser neues Produkt: Prime Pizza!
 
-Mit **Prime Pizza** wollen wir unser Geschäft weiter ausbauen und allen Lesehungrigen noch die beste Pizza der Europas passend zu ihren Büchern liefern.
+Mit **Prime Pizza** wollen wir unser Geschäft weiter ausbauen und allen Lesehungrigen noch die beste Pizza Europas passend zu ihren Büchern liefern.
 Aber wir wären nicht **Omozan** wenn wir nicht besser wären als alle anderen.
 Deshalb versprechen wir:
 
