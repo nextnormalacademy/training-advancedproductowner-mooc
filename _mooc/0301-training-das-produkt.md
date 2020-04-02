@@ -1,5 +1,5 @@
 ---
-title: "Das Produkt”
+title: "Das Produkt"
 permalink: /training/das-produkt/
 ---
 
