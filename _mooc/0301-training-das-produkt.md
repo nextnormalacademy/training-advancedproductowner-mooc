@@ -16,7 +16,7 @@ Wir sind der größte Fachbuchhändler in Europa und wollen nun in ein neues Ges
 ## Unser neues Produkt: Prime Pizza!
 
 Mit **Prime Pizza** wollen wir unser Geschäft weiter ausbauen und allen Lesehungrigen noch die beste Pizza der Europas passend zu ihren Büchern liefern.
-Aber wir wären nicht **Omozan** wenn wir nicht besser wären als alle anderem.
+Aber wir wären nicht **Omozan** wenn wir nicht besser wären als alle anderen.
 Deshalb versprechen wir:
 
 **Wir liefern deine Pizza garantiert innerhalb von 20 Minuten im gesamten Stadtgebiet, wenn du Prime Member bist und via Alexa bestellst.**
@@ -27,7 +27,7 @@ Deshalb versprechen wir:
 
 ## Du bist Product Owner!
 
-Wir haben dich einladen, Product Owner für dieses spannende Produkt zu sein, dass die Welt des Lesens und der Pizza für immer verändern wird…
+Wir haben dich einladen, Product Owner für dieses spannende Produkt zu sein, das die Welt des Lesens und der Pizza für immer verändern wird…
 
 Starte gleich mit [der ersten Lektion][1]!
 
