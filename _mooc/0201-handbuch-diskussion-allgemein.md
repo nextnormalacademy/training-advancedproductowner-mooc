@@ -1,5 +1,5 @@
 ---
-title: Handbuch: Allgemeine Diskussion
+title: "Handbuch: Allgemeine Diskussion"
 permalink: /handbuch-diskussion-allgemein/
 ---
 Diskussionsforum für das Kapitel [Start ins Handbuch][1].

@@ -3,14 +3,15 @@ title: Training
 permalink: /training/
 ---
 
-Im #apoMOOC-Training lernst Du strukturiert, wie Du die Werkzeuge und Methoden aus der **Product Owner Value Chain** anwendest und kombinierst.
+Im #apoMOOC-Training lernst du strukturiert, wie du die Werkzeuge und Methoden aus der **Product Owner Value Chain** anwendest und kombinierst.
 Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Training.
 
-Zu jeder Lektion gibt es eine Aufgabe. Deine Lösung kannst Du im Forum teilen und mit anderen diskutieren.
+Zu jeder Lektion gibt es eine Aufgabe. Deine Lösung kannst du im Forum teilen und mit anderen diskutieren.
+Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Forum gestellt hast und die Lösungen von zwei anderen Teilnehmern kommentiert hast.
 
 ## Die Lektionen
 
-1. [Das Projekt: Prime Pizza][1]
+1. [Das Produkt: Prime Pizza][1]
 2. [Von der Idee zur Persona][2]
 3. [Von der Persona zur Empathy Map][3]
 4. [Pointcut: das Business Model][4]
