@@ -30,7 +30,9 @@ Bei den Personas kann es sich sowohl um Kunden als auch um Benutzer handeln. Wic
 
 Lade deine Personas im Diskussionforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Personas auffällt.
 
-## Werkzeuge und Methoden
+## Advanced Product Owner Handbuch
+
+In den folgenden Kapiteln beschrieben wir für dich Methoden und Werkzeuge, mit denen du sofort loslegen kannst:
 
 * Advanced Product Owner-Handbuch: [Kunden][1]
 * Advanced Product Owner-Handbuch: [Persona][2]
