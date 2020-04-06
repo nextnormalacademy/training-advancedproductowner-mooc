@@ -19,7 +19,7 @@ Um gute Personas zu beschreiben, muss du natürlich erst einmal wissen, ob du Pe
 Den Unterschied erklären wir den beiden Kapiteln im Handbuch. Schau da am besten rein, bevor du loslegst.
 
 Schau dir auch nochmal genau an, was wir den Kunden von Prime Pizza versprechen.
-Das Versprechen bietet dir viele Möglicheiten, interessante Personas zu erstellen.
+Das Versprechen bietet dir viele Möglichkeiten, interessante Personas zu erstellen.
 
 ## Aufgabe
 
@@ -28,7 +28,7 @@ Bei den Personas kann es sich sowohl um Kunden als auch um Benutzer handeln. Wic
 
 ## Abschluss der Lektion
 
-Lade deine Personas im Diskussionforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Personas auffällt.
+Lade deine Personas im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Personas auffällt.
 
 ## Advanced Product Owner Handbuch
 
