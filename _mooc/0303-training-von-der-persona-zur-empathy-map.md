@@ -33,7 +33,7 @@ Wichtig ist, dass du die Gefühlswelt der gesamten Kunden- und Nutzergruppe betr
 Lade deine Empathy Map im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihrer Empathy Map auffällt.
 
 
-## Werkzeuge und Methoden
+## Advanced Product Owner Handbuch
 
 In den folgenden Kapiteln beschreiben wir für dich Methoden und Werkzeuge, mit denen du sofort loslegen kannst:
 

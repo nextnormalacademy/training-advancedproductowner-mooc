@@ -64,6 +64,6 @@ Lade deine Business Model im Diskussionsforum hoch und gib zwei anderen Teilnehm
 Im folgenden Kapitel beschreiben wir für dich das Business Model Canvas:
 
 
- * Advanced Product Owner-Handbuch: [Business Model][1]
+ * [Business Model][1]
 
 [1]:	https://manual.advancedproductowner.com/business-model/
