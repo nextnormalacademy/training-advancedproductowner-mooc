@@ -3,11 +3,17 @@ title: Von der Empathy Map und dem Business Model zur Value Proposition
 permalink: /training/von-der-empathy-map-und-dem-business-model-zur-value-proposition/
 ---
 
-Beim Erstellen des Business Model Canvas hast du dir bereits Gedanken zu deiner Value Proposition gemacht. Sie ist das zentrale Element im Canvas.
+Zentrales Element in deinem Business Model Canvas ist der Nutzen, den dein Produkt erzeugt.
+Durch die Arbeit mit Personas haben wir gelernt, dass unterschiedliche Nutzer- und Kundengruppen unterschiedliche Ziele verfolgen.
+Als Product Owner must du diese Ziele im Blick haben und dir darüber bewusst sein, welche Ziele du durch welche Produktausprägungen adressierst.
+
+Mit anderen Worten 
+
+<!--Beim Erstellen des Business Model Canvas hast du dir bereits Gedanken zu deiner Value Proposition gemacht. Sie ist das zentrale Element im Canvas.
 Doch deine Value Proposition kann mehrere Facetten haben, je nach Kunden- und Nutzergruppe.
 
 Diesen Facetten gehen wir in dieser Lektion auf den Grund.
-
+-->
 Jetzt gilt es die konkreten "Gain Creator" und "Pain Reliever" pro Kunden- und Nutzergruppe zu erarbeiten.
 Diese unterscheiden sich z.B. bei Anna-Franziska, Antonio und Natalie:
 Der eine freut sich über Geschmack und Qualität unserer Prime Pizza, der andere mehr über die stabilen Kartons bei der Auslieferung.
