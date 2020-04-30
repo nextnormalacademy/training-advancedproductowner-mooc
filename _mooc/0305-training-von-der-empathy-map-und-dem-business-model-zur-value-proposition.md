@@ -3,28 +3,32 @@ title: Von der Empathy Map und dem Business Model zur Value Proposition
 permalink: /training/von-der-empathy-map-und-dem-business-model-zur-value-proposition/
 ---
 
-Zentrales Element in deinem Business Model Canvas ist der Nutzen, den dein Produkt erzeugt.
-Durch die Arbeit mit Personas haben wir gelernt, dass unterschiedliche Nutzer- und Kundengruppen unterschiedliche Ziele verfolgen.
-Als Product Owner must du diese Ziele im Blick haben und dir darüber bewusst sein, welche Ziele du durch welche Produktausprägungen adressierst.
+Wie du sicherlich gemerkt hast, hat das Business Model Canvas ein zentrales Element: das Wertangebot.
 
-Mit anderen Worten 
+Das Wertangebot sieht in der Regel für unterschiedliche Kundensegmente anders aus.
+Das liegt an ihren unterschiedlichen Zielen. 
+Als Product Owner must du dir dieser Ziele bewusst sein, um fundierte Entscheidundungen zu treffen.
 
-<!--Beim Erstellen des Business Model Canvas hast du dir bereits Gedanken zu deiner Value Proposition gemacht. Sie ist das zentrale Element im Canvas.
-Doch deine Value Proposition kann mehrere Facetten haben, je nach Kunden- und Nutzergruppe.
+Wir werden es nicht schaffen, Mehmet den Taxifahrer mit dem gleichen Angebot zu begeistern wie Hanna die Party-Queen.
 
-Diesen Facetten gehen wir in dieser Lektion auf den Grund.
--->
-Jetzt gilt es die konkreten "Gain Creator" und "Pain Reliever" pro Kunden- und Nutzergruppe zu erarbeiten.
-Diese unterscheiden sich z.B. bei Anna-Franziska, Antonio und Natalie:
-Der eine freut sich über Geschmack und Qualität unserer Prime Pizza, der andere mehr über die stabilen Kartons bei der Auslieferung.
+Gott sei Dank gibt es auch hierfür ein Tool: 
+Das Value Proposition Canvas von Alexander Osterwalder.
+Ähnlich wie beim Business Model Canvas bietet es dir die Möglichkeit neue Erkenntnisse zu gewinnen und deine Annahmen in Frage zu stellen.
+Auch hier besteht kein Anspruch auf Vollständigkeit. Es ist ein Hilfsmittel, das dich langfristig begleitet.
 
-Diese Transparenz hilft dir bei der Produktentwicklung die Bedürfnisse deiner Kunden- und Nutzergruppen zu berücksichtigen.
+Eine detaillierte Beschreibung und Anleitung zur Arbeit mit dem Value Proposition Canvas
+haben wir für dich [im Handbuch] [1] zusammengestellt.
+
+Praktischerweise liefern uns die Personas und Empathy Maps Input für die rechte Seite des Value Proposition Canvas.
 
 ## Aufgabe
 
-Nimm dir das Value Proposotion Canvas aus dem Handbuch zur Hilfe und erarbeite die Value Proposition für zwei deiner Kunden- und Nutzergruppen.
-Am besten nimmst du dir die Kunden- und Nutzergruppen vor, für die du bereits die Empathy Map erarbeitet hast.
+Schnapp dir das Value Proposition Canvas aus dem Handbuch. 
+Entscheide dich für zwei Kundensegmente, für die du das Canvas ausfüllen möchtest. 
+Am besten nimmst du dir zwei Kundensegmente vor, die du bereits mit Personas und Empathy Maps bearbeitet hast.
+Fülle zunächst die rechte Seite und anschließend die linke Seite des Canvas aus.
 
+Achte auf den Fit zwischen den Pains und Gains des Kundensegments und den Pain Relievers und Gain Creators von Prime Pizza.
 
 ## Abschluss der Lektion
 
@@ -34,10 +38,7 @@ Lade deine Value Propositions im Diskussionsforum hoch und gib zwei anderen Teil
 
 In den folgenden Kapiteln beschreiben wir für dich Methoden und Werkzeuge, mit denen du sofort loslegen kannst:
 
-* [Empathy Map][1]
-* [Business Model][2]
-* [Value Proposition][3]
+* [Value Proposition][1]
 
-[1]:	https://manual.advancedproductowner.com/empathy-map/
-[2]:	https://manual.advancedproductowner.com/business-model/
-[3]:	https://manual.advancedproductowner.com/value-proposition/
+
+[1]:	https://manual.advancedproductowner.com/coming-soon/
