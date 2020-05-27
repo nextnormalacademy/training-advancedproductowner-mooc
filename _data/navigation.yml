@@ -12,7 +12,9 @@ mooc:
     - title: Handbuch
       url: /handbuch/
   - title: Training
-    url: /training/
+    children:
+    - title: Einstieg
+      url: /training/
     - title: Produkt
       url: /training/das-produkt/
     - title: Von der Idee zur Persona
