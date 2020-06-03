@@ -17,14 +17,15 @@ Dazu möchten wir wissen, was sie umtreibt:
 
 Diese Eigenschaften können für die Empathiegewinnung mit der Kunden- und Nutzergruppe mehr oder weniger hilfreich sein. 
 Oftmals helfen dir nur manche der ausgewählten Eigenschaften einer Persona bei der Erstellung einer Empathy Map. 
-Nehmen wir unsere Persona der Studentin Anna-Franziska. Wir wissen, dass Anna-Franziska:
+Nehmen wir unsere Persona der Studentin Anna-Franziska.
+Wir wissen, dass Anna-Franziska:
 
 * Informatik studiert
 * Pizza liebt und
 * Bücher über C\# liebt
 
 Was können wir aus diesen Informationen für unsere Empathy Map nutzen? 
-Zunächst lässt sich sagen: „Das hängt davon ab…“
+Zunächst lässt sich sagen: "Das hängt davon ab…"
 
 * Wollen wir die Kundengruppe der Studenten betrachten? Was zeichnet diese Gruppe aus? 
 Es könnte bedeuten, dass sie ein kleines Budget für Essensbestellungen haben. 
@@ -39,7 +40,6 @@ Vielleicht bewirkt es auch, dass sie einen höheren Preis zahlen würden.
 Diese Information scheint im Kontext von Prime Pizza weniger wichtig. 
 Das zeigt uns, dass die Information zwar hilfreich war, um Anna-Franziska Persönlichkeit zu verleihen. 
 Für die Arbeit mit der Empathy Map können wir keinen Mehrwert daraus ziehen.
-
 
 Anna-Franziska kann uns also dazu bringen über mehrere Kunden- und Nutzergruppen nachzudenken. 
 
@@ -69,8 +69,5 @@ Lade deine Empathy Maps im Diskussionsforum hoch und gib zwei anderen Teilnehmer
 
 In den folgenden Kapiteln beschreiben wir für dich Methoden und Werkzeuge, mit denen du sofort loslegen kannst:
 
-* [Persona][1]
-* [Empathy Map][2]
-
-[1]:	https://manual.advancedproductowner.com/persona/
-[2]:	https://manual.advancedproductowner.com/empathy-map/
+* [Persona](https://manual.advancedproductowner.com/persona/)
+* [Empathy Map](https://manual.advancedproductowner.com/empathy-map/)
