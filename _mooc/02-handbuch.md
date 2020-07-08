@@ -22,7 +22,7 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Value Proposition][11] ([direkt zur Diskussion][12])
 * [Business Model][13] ([direkt zur Diskussion][14])
 * [Nutzenmodell][15] ([direkt zur Diskussion][16])
-* [Stakeholder Map][17] ([direkt zur Diskussion][18])
+* [Stakeholder Mapping][17] ([direkt zur Diskussion][18])
 * [Inception Deck][19] ([direkt zur Diskussion][20])
 * [Roadmap][21] ([direkt zur Diskussion][22])
 * [Impact Map][23] ([direkt zur Diskussion][24])
@@ -54,8 +54,8 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [14]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47626-handbuch-business-model "direkt zur Diskussion: Business Model"
 [15]:	https://manual.advancedproductowner.com/value-model/
 [16]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47705-handbuch-nutzenmodell "direkt zur Diskussion: Nutzenmodell"
-[17]:	https://manual.advancedproductowner.com/stakeholder-map/
-[18]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47706-handbuch-stakeholder-map "direkt zur Diskussion: Stakeholder Map"
+[17]:	https://manual.advancedproductowner.com/stakeholder-mapping/
+[18]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47706-handbuch-stakeholder-mapping "direkt zur Diskussion: Stakeholder Map"
 [19]:	https://manual.advancedproductowner.com/inception-deck/
 [20]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47707-handbuch-inception-deck "direkt zur Diskussion: Inception Deck"
 [21]:	https://manual.advancedproductowner.com/roadmap/

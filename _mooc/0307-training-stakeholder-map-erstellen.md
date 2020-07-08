@@ -1,10 +1,10 @@
 ---
-title: Die Stakeholder Map erstellen
-permalink: /training/stakeholder-map-erstellen/
+title: Stakeholder Mapping
+permalink: /training/stakeholder-mapping/
 ---
 
 ## Werkzeuge und Methoden
 
- * Advanced Product Owner-Handbuch: [Stakeholder Map][1]
+ * Advanced Product Owner-Handbuch: [Stakeholder Mapping][1]
 
-[1]:	https://manual.advancedproductowner.com/stakeholder-map/
+[1]:	https://manual.advancedproductowner.com/stakeholder-mapping/

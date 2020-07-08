@@ -17,13 +17,13 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 4. [Pointcut: das Business Model][4]
 5. [Von der Empathy Map und dem Business Model zur Value Proposition][5]
 6. [Feedback: Business Model, Teil 1][6]
-7. Pointcut: die Stakeholder Map
-8. Von der Value Proposition und der Stakeholder Map zum Inception Deck
+7. [Pointcut: Stakeholder Mapping][7]
+8. [Von der Value Proposition und dem Stakeholder Mapping zum Inception Deck][8]
 9. Feedback: Value Proposition & Business Model
 10. Von der Value Proposition zum Value Model
 11. Feedback: Business Model, Teil 2
 12. Vom Inception Deck und dem Value Model zur Roadmap
-13. Von der Stakeholder Map und der Roadmap zur Impact Map
+13. Vom Stakeholder Mapping und der Roadmap zur Impact Map
 14. Feedback: Inception Deck
 15. Von Persona und Impact Map und zur Story Map
 16. Feedback: Impact Map
@@ -42,3 +42,5 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 [4]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=7
 [5]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=8
 [6]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=9
+[7]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=10
+[8]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=11
