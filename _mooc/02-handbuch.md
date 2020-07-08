@@ -15,7 +15,7 @@ Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Tr
 
 Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs springen:
 
-* [Start ins Handbuch][3] 
+* [Handbuch][3] 
 * [Kunden][4] 
 * [Persona][5] 
 * [Empathy Map][6] 
