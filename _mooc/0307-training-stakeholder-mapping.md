@@ -2,9 +2,9 @@
 title: Stakeholder Mapping
 permalink: /training/stakeholder-mapping/
 ---
-Als Product Owner musst du deine entscheidenden Stakeholder kennen und dir einen Plan gemacht haben, wie du mit Ihnen umgehen möchtest.
+Als Product Owner musst du deine Stakeholder kennen, damit du dir einen Plan machen kannst, wie du  mit ihnen umgehen möchtest.
 
-Durch die Arbeit mit Personas haben wir bereits wesentliche Kundengruppen von Prime Pizza identifiziert.
+Durch die Arbeit mit Personas haben wir bereits eine der wichtigstens Stakeholdergruppen identifiziert: deine Kunden.
 
 Doch für den Erfolg von Prime Pizza müssen wir wesentlich mehr Menschen berücksichtigen.
 
