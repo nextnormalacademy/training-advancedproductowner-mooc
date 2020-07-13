@@ -10,7 +10,6 @@ Durch die Arbeit mit Personas haben wir bereits eine der wichtigstens Stakeholde
 
 Doch für den Erfolg von Prime Pizza müssen wir wesentlich mehr Menschen und Gruppen berücksichtigen.
 
-
 Wen genau und wie wir das machen wollen, finden wir in dieser Übung heraus.
 
 ## Aufgabe
