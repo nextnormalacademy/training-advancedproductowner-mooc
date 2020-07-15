@@ -16,6 +16,9 @@ Für jeden Pfeil in der **Product Owner Value Chain** gibt es eine Lektion im Tr
 Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs springen:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10
 * [Handbuch][3] 
 * [Kunden][4] 
 * [Persona][5] 
@@ -31,6 +34,7 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Product Backlog][15] 
 * [Delivery Kanban][16]
 * [Real Options][17]
+<<<<<<< HEAD
 =======
 * [Start ins Handbuch][3] ([direkt zur Diskussion][4]) 
 * [Kunden][5] ([direkt zur Diskussion][6])
@@ -48,6 +52,8 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Delivery Kanban][29] ([direkt zur Diskussion][30])
 * [Real Options][31] ([direkt zur Diskussion][32])
 >>>>>>> 89052f0f64b9e4f384e4e7aa8fa738a4925bc6c2
+=======
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10
 
 
 Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
@@ -60,6 +66,9 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [2]:	https://www.oncampus.de/course/apoMOOC?chapter=2&selected_week=3 "Advanced Product Owner Training"
 [3]:	https://manual.advancedproductowner.com/introduction/ "Einführung"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10
 [4]:	https://manual.advancedproductowner.com/customers/
 [5]:	https://manual.advancedproductowner.com/persona/
 [6]:	https://manual.advancedproductowner.com/empathy-map/
@@ -73,6 +82,7 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [14]:	https://manual.advancedproductowner.com/story-map/
 [15]:	https://manual.advancedproductowner.com/product-backlog/ "Product Backlog"
 [16]:	https://manual.advancedproductowner.com/delivery-kanban/
+<<<<<<< HEAD
 [17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
 =======
 [4]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc/section-2/47627-handbuch-allgemeine-diskussionen "direkt zur Diskussion: Start ins Handbuch"
@@ -105,3 +115,6 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [31]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
 [32]:	https://www.oncampus.de/course/apoMOOC/section-2/47432-handbuch-real-options "direkt zur Diskussion: Real Options"
 >>>>>>> 89052f0f64b9e4f384e4e7aa8fa738a4925bc6c2
+=======
+[17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10

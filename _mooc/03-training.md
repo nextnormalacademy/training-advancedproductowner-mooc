@@ -12,6 +12,9 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 ## Die Lektionen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10
 1. [Das Produkt: Prime Pizza](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=4)
 2. [Von der Idee zur Persona](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=5)
 3. [Von der Persona zur Empathy Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=6)
@@ -36,6 +39,7 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 22. [Vom Delivery Kanban zum Product Increment](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=25)
 23. [Feedback: Product Increment](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=26)
 24. [Abschluss](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=27)
+<<<<<<< HEAD
 =======
 1. [Das Produkt: Prime Pizza][1]
 2. [Von der Idee zur Persona][2]
@@ -71,3 +75,5 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 [7]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=10
 [8]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=11
 >>>>>>> 89052f0f64b9e4f384e4e7aa8fa738a4925bc6c2
+=======
+>>>>>>> ef59496966760c7930691289e6faa288bc4f7c10
