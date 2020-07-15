@@ -46,7 +46,7 @@ Lade
 - die Beschreibungen der Feedback Loops für Phase 2 und Phase 5 des Business Models 
 - dein aufgrund des Feedbacks angepasstes Business Model Canvas 
 
-im Diskussionsforum hoch.
+[im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47756) hoch.
 
 ## Werkzeuge und Methoden
 
