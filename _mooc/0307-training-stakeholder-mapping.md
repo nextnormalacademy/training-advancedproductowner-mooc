@@ -2,36 +2,43 @@
 title: Stakeholder Mapping
 permalink: /training/stakeholder-mapping/
 ---
-Als Product Owner von Prime Pizza bist du der erste Ansprechpartner für unser Produkt.
+Du hast in der letzten Lektion dein Business Model verfeinert. 
+Um das Business Model in die Tat umzusetzen und mit Prime Pizza erfolgreich zu sein, bist du auf die Unterstützung von Stakeholdern angewiesen.
+Durch die Arbeit mit Personas haben wir bereits eine der wichtigsten Stakeholdergruppen identifiziert: deine Kunden. 
+Doch für den Erfolg von Prime Pizza müssen wir wesentlich mehr Menschen und Gruppen berücksichtigen. Einige davon hast du im Business Model schon identifiziert. 
+An Andere hast du vielleicht noch nicht gedacht.
+Es ist höchste Zeit, sich mit dem Thema "Stakeholder" intensiver zu beschäftigen!
 
-Du solltest also deine Stakeholder kennen damit du dir einen Plan machen kannst, wie du  mit ihnen umgehen möchtest.
-
-Durch die Arbeit mit Personas haben wir bereits eine der wichtigstens Stakeholdergruppen identifiziert: deine Kunden.
-
-Doch für den Erfolg von Prime Pizza müssen wir wesentlich mehr Menschen und Gruppen berücksichtigen.
-
-Wen genau und wie wir das machen wollen, finden wir in dieser Übung heraus.
+Zuerst identifizierst du deine Stakeholder. 
+Danach analysierst du sie in Bezug auf ihr Interesse und ihren Einfluss auf Prime Pizza.
+Darauf basierend kannst du einen Plan zur Kommunikation und Interaktion mit deinen Stakeholdern entwickeln.  
 
 ## Aufgabe
+Im Handbuch stellen wir dir [das Stakeholder Onion Diagram und das Power-Interest-Grid] (https://manual.advancedproductowner.com/stakeholder-mapping/) vor.  
+Lies dir den Text durch und überlege, welche Stakeholder du als Product Owner von Prime Pizza hast. 
+Nimm dir bei diesen Überlegungen auch dein Business Model zur Hand. 
 
-Im Handbuch stellen wir dir das Stakeholder Onion Diagram und das Power-Interest-Grid vor.
-
-Lies dir die Beschreibung durch und überlege, welche Stakeholder du als Product Owner von Prime Pizza berücksichtigen solltest.
-
-Nimm dir bei diesen Überlegungen auch dein Geschäftsmodell zur Hand.
-
-Beim Stakeholder Mapping solltest du die gesamte Wertschöpfungskette von Prime Pizza berücksichigen.
-
-Angefangen bei der Besorgung der notwendigen Lebensmittel, bis hin zur erfolgreichen Auslieferung deines Produkts.
-
-Selbstverständlich möchten wir Prime Pizza zum besten Pizza Produkt am Markt machen.
-
-Daher überlege dir basierend auf dem Stakeholder Onion diagramm und dem Power-Interest-Grid gerne kreative und begeisternde Informations- und Beteiligungskanäle für deine "Player", "Subjects", "Context Settler" und "Crowd"
-
+Beim Stakeholder Mapping solltest du die gesamte Wertschöpfungskette von Prime Pizza berücksichtigen,
+angefangen bei der Besorgung der notwendigen Lebensmittel bis hin zur erfolgreichen Auslieferung deines Produkts. 
 
 ## Abschluss der Lektion
 
-Lade dein Stakeholder Onion Diagram, dein Power-Interest-Grid und deine Übersicht mit konkreten Maßnahmen zur Interaktion und Kommunikation mit deinen Stakeholdergruppen im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Inhalten auffällt.
+Lade
+
+* dein Stakeholder Onion Diagram
+* dein Power-Interest-Grid
+
+im Diskussionsforum hoch.
+
+Gib zwei anderen Teilnehmern Feedback zu ihrem Stakeholder Mappings. 
+
+## optionale Zusatzaufgabe
+Selbstverständlich möchten wir Prime Pizza zum besten Pizza Produkt am Markt machen.
+Überlege dir daher basierend auf dem Stakeholder Onion Diagram und dem Power-Interest-Grid kreative und begeisternde Informations- und Beteiligungskanäle für deine "Player", "Subjects", "Context Setter" und "Crowd".
+
+Lade
+
+* deine Übersicht mit konkreten Maßnahmen zur Interaktion und Kommunikation mit deinen Stakeholdergruppen im Diskussionsforum ergänzend zu deinem Stakeholder Onion Diagram und dem Power-Interest-Grid hoch. 
 
 ## Werkzeuge und Methoden
 
