@@ -36,7 +36,10 @@ Achte dabei auf folgende Dinge:
 
 ## Abschluss der Lektion
 
-Lade deine Value Propositions im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Value Propositions auffällt.
+Lade 
+
+* deine 2 Value Propositions [im Aufgabenforum ](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47755) hoch und 
+* gib zwei anderen Teilnehmern Feedback, was dir an ihren Value Propositions auffällt.
 
 ## Advanced Product Owner Handbuch
 

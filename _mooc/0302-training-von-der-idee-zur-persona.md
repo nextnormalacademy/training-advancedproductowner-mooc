@@ -28,14 +28,15 @@ Bei den Personas kann es sich sowohl um Kunden als auch um Benutzer handeln. Wic
 
 ## Abschluss der Lektion
 
-Lade deine Personas im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Personas auffällt.
+Lade 
+
+* 3 Personas [im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47469) hoch und 
+* gib zwei anderen Teilnehmern Feedback, was dir an ihren Personas auffällt.
 
 ## Advanced Product Owner Handbuch
 
 In den folgenden Kapiteln beschrieben wir für dich Methoden und Werkzeuge, mit denen du sofort loslegen kannst:
 
-* Advanced Product Owner-Handbuch: [Kunden][1]
-* Advanced Product Owner-Handbuch: [Persona][2]
+* Advanced Product Owner-Handbuch: [Kunden](https://manual.advancedproductowner.com/customers/)
+* Advanced Product Owner-Handbuch: [Persona](https://manual.advancedproductowner.com/persona/)
 
-[1]:	https://manual.advancedproductowner.com/customers/
-[2]:	https://manual.advancedproductowner.com/persona/

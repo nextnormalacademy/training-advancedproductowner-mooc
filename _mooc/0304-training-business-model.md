@@ -56,7 +56,10 @@ Die weiteren Phasen betrachten wir im Fortgang der MOOC.
 
 ## Abschluss der Lektion 
 
-Lade deine Business Model Canvas im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback zu ihren Canvases. 
+Lade 
+
+* deine Business Model Canvas [im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=47754) hoch und 
+* gib zwei anderen Teilnehmern Feedback zu ihren Canvases. 
 
 Bitte bedenke, dass das Geschäftsmodell von Prime Pizza bei jedem Teilnehmer andere Ausprägungen haben kann.
 Es kommt vor allem auf ein schlüssiges Zusammenspiel der einzelnen Bausteine an.
@@ -67,6 +70,4 @@ Es kommt vor allem auf ein schlüssiges Zusammenspiel der einzelnen Bausteine an
 Im folgenden Kapitel beschreiben wir für dich das Business Model Canvas:
 
 
- * [Business Model][1]
-
-[1]:	https://manual.advancedproductowner.com/business-model/
+ * [Business Model](https://manual.advancedproductowner.com/business-model/)

@@ -63,7 +63,10 @@ Kleiner Tipp: Erstelle nicht alle  Empathy Maps hintereinander, sondern warte li
 
 ## Abschluss der Lektion
 
-Lade deine Empathy Maps im Diskussionsforum hoch und gib zwei anderen Teilnehmern Feedback, was dir an ihren Empathy Maps auffällt.
+Lade 
+
+* zwei Empathy Maps zu jeweils einer Kunden- und Nutzergruppen abgeleitet von deinen Personas [im Aufgabenforum](https://manual.advancedproductowner.com/persona/) hoch und 
+* gib zwei anderen Teilnehmern Feedback, was dir an ihren Empathy Maps auffällt.
 
 ## Advanced Product Owner Handbuch
 
