@@ -11,6 +11,32 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 
 ## Die Lektionen
 
+<<<<<<< HEAD
+1. [Das Produkt: Prime Pizza](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=4)
+2. [Von der Idee zur Persona](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=5)
+3. [Von der Persona zur Empathy Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=6)
+4. [Pointcut: das Business Model](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=7)
+5. [Von der Empathy Map und dem Business Model zur Value Proposition](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=8)
+6. [Feedback: Business Model, Teil 1](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=9)
+7. [Pointcut: Stakeholder Mapping](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=10)
+8. [Von der Value Proposition und dem Stakeholder Mapping zum Inception Deck](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=11)
+9. [Feedback: Value Proposition & Business Model](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=12)
+10. [Von der Value Proposition zum Value Model](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=13)
+11. [Feedback: Business Model, Teil 2](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=14)
+12. [Vom Inception Deck und dem Value Model zur Roadmap](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=15)
+13. [Vom Stakeholder Mapping und der Roadmap zur Impact Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=16)
+14. [Feedback: Inception Deck](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=17)
+15. [Von Persona und Impact Map und zur Story Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=18)
+16. [Feedback: Impact Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=19)
+17. [Von der Story Map zum Product Backlog](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=20)
+18. [Feedback: Story Map, Teil 1](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=21)
+19. [Vom Product Backlog zum Delivery Kanban](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=22)
+20. [Feedback: Story Map, Teil 2](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=23)
+21. [Feedback: Value Model](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=24)
+22. [Vom Delivery Kanban zum Product Increment](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=25)
+23. [Feedback: Product Increment](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=26)
+24. [Abschluss](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=27)
+=======
 1. [Das Produkt: Prime Pizza][1]
 2. [Von der Idee zur Persona][2]
 3. [Von der Persona zur Empathy Map][3]
@@ -44,3 +70,4 @@ Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Foru
 [6]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=9
 [7]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=10
 [8]:	https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=11
+>>>>>>> 89052f0f64b9e4f384e4e7aa8fa738a4925bc6c2
