@@ -10,7 +10,6 @@ Zu jeder Lektion gibt es eine Aufgabe. Deine Lösung kannst du im Forum teilen u
 Die nächste Lektion wird jeweils freigeschalten, wenn du deine Lösung ins Forum gestellt hast und die Lösungen von zwei anderen Teilnehmern kommentiert hast.
 
 ## Die Lektionen
-
 1. [Das Produkt: Prime Pizza](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=4)
 2. [Von der Idee zur Persona](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=5)
 3. [Von der Persona zur Empathy Map](https://www.oncampus.de/course/weiterbildung/moocs/apomooc?chapter=2&selected_week=6)

@@ -31,7 +31,6 @@ Du kannst hier direkt zu den Kapiteln des Advanced Product Owner-Handbuchs sprin
 * [Delivery Kanban][16]
 * [Real Options][17]
 
-
 Alle relevanten Kapitel haben wir in den Trainingseinheiten verlinkt.
 
 ---- 
@@ -54,4 +53,6 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [14]:	https://manual.advancedproductowner.com/story-map/
 [15]:	https://manual.advancedproductowner.com/product-backlog/ "Product Backlog"
 [16]:	https://manual.advancedproductowner.com/delivery-kanban/
+[17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
+[17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
 [17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
