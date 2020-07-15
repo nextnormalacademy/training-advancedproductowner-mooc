@@ -54,3 +54,5 @@ Hier im oncampus kannst Du Dich mit anderen zu den Methoden und Werkzeugen aus d
 [15]:	https://manual.advancedproductowner.com/product-backlog/ "Product Backlog"
 [16]:	https://manual.advancedproductowner.com/delivery-kanban/
 [17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
+[17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
+[17]:	https://manual.advancedproductowner.com/real-options/ "Real Options"
