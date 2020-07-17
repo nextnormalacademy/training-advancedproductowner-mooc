@@ -3,7 +3,7 @@ title: Von der Value Proposition und dem Stakeholder Mapping zum Inception Deck
 permalink: /training/von-der-value-proposition-und-dem-stakeholder-mapping-zum-inception-deck/
 ---
 
-In den vorangegangenen Lektion hast du 
+In den vorangegangenen Prime Pizza Lektion hast du 
 
 * eine Value Proposition für ein Zielkundensegment formuliert
 * ein Business Model aufgestellt 
@@ -11,14 +11,16 @@ In den vorangegangenen Lektion hast du
 
 Als nächstes möchtest du wichtige Stakeholder wie z.B. interne Sponsoren in Bezug auf Prime Pizza an Bord holen.
 
+Aufgrund Ihrer unterschiedlichen Anforderungen an Prime Pizza werden die Stakeholder unterschiedliche Erwartungshaltungen über Prime Pizza besitzten.
+
 Deine Stakeholder werden sich zum Beispiel fragen:
 
-* Warum verspricht sich Omozan überhaupt von Prime Pizza?
+* Was verspricht sich Omozan überhaupt von Prime Pizza?
 * Was wird das Besondere an Prime Pizza für die Kunden sein?
-* Wie beinhaltet die Lösung für das erste Release technisch unegfähr? 
-* Welche Stakeholder sollen mit eingebunden werden?
+* Was beinhaltet die Lösung für das erste Release technisch ungefähr? 
+* Welche weitren Stakeholder sollen mit eingebunden werden?
 * Welche Risiken siehst du als Product Owner?
-* Wieviel Personen, Budget und Zeit wird es für das erste Release brauchen?
+* Wieviele Personen, Budget und Zeit wird es für das erste Release brauchen?
 
 Das im Handbuch beschriebene [Inception Deck](https://manual.advancedproductowner.com/inception-deck/) ist ein Tool, das dir und deinen Stakeholdern beim Durchdenken der kritischen Punkte für die nächste Entwicklungsphase deines Geschäfts (in unserem Fall Prime Pizza) hilft. 
 
@@ -28,15 +30,19 @@ Erstelle dann unter Zuhilfenahme der Informationen aus den vorangegenagenen Lekt
 
 Deine Erkenntnisse aus der Value Proposition helfen dir zum Beispiel beim Elevator Pitch und der Product Box.
 Dein Business Model Canvas ist eine Grundlage für die Beantwortung der Frage nach den Risiken, der ungefähren technischen Lösung und der NOT-List.
-Deine Stakeholder Mappings helfen dir bei der Beantwortung der Frage, wer eingebunden werden muss. 
+Dein Stakeholde Mapping hilft dir bei der Beantwortung der Frage, wer eingebunden werden muss. 
 
-Das Inception Deck bietet sich außerdem zur Diskussion mit wichtigen Stakehokldern an. Die Stakeholder Mappings bieten eine gute Grundlagfe für die Entscheidung, wen du zu einem gemeinsamen Workshop einladen solltest.
+Das Inception Deck bietet sich außerdem zur Diskussion mit wichtigen Stakehokldern an. 
+Die Stakeholder Mapping bietet eine gute Grundlagfe für die Entscheidung, wen du zu einem gemeinsamen Workshop einladen solltest und wen nicht.
 
 ## Lektionsabschluss
+
 Lade
 
-* dein ausgefülltes Inception Deck für Prime Pizza bezogen auf die nächste Entwicklungsphase des Prime Pizza Geschäfts (z.B. das erste Release) [im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) hoch.
+* dein ausgefülltes Inception Deck für Prime Pizza bezogen auf die nächste Entwicklungsphase des Prime Pizza Geschäfts (z.B. das erste Release) 
 
+[im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49994) hoch.
+Gib zwei anderen Teilnehmern Feedback zu ihren Inception Decks.
 
 ## Werkzeuge und Methoden
 

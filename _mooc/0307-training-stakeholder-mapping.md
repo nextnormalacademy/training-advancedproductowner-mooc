@@ -25,10 +25,10 @@ angefangen bei der Besorgung der notwendigen Lebensmittel bis hin zur erfolgreic
 
 Lade
 
-* dein Stakeholder Onion Diagram
+* dein Stakeholder Onion Diagram und
 * dein Power-Interest-Grid
 
-im Diskussionsforum hoch.
+[im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49992) hoch.
 
 Gib zwei anderen Teilnehmern Feedback zu ihrem Stakeholder Mappings. 
 
@@ -38,10 +38,11 @@ Selbstverständlich möchten wir Prime Pizza zum besten Pizza Produkt am Markt m
 
 Lade
 
-* deine Übersicht mit konkreten Maßnahmen zur Interaktion und Kommunikation mit deinen Stakeholdergruppen im Diskussionsforum ergänzend zu deinem Stakeholder Onion Diagram und dem Power-Interest-Grid hoch. 
+* deine Übersicht mit konkreten Maßnahmen zur Interaktion und Kommunikation mit deinen Stakeholdergruppen 
+
+ergänzend im [im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=49992) zu deinem Stakeholder Onion Diagram und dem Power-Interest-Grid hoch.
+
 
 ## Werkzeuge und Methoden
 
- * Advanced Product Owner-Handbuch: [Stakeholder Mapping][1]
-
-[1]:	https://manual.advancedproductowner.com/stakeholder-mapping/
+* Advanced Product Owner-Handbuch: [Stakeholder Mapping](https://manual.advancedproductowner.com/stakeholder-mapping/)
