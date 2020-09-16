@@ -26,14 +26,13 @@ Das im Handbuch beschriebene [Inception Deck](https://manual.advancedproductowne
 
 ## Aufgabe
 Schau dir die Beschreibung des [Inception Decks im Handbuch ](https://manual.advancedproductowner.com/inception-deck/) an. 
-Erstelle dann unter Zuhilfenahme der Informationen aus den vorangegangenen Lektionen das Inception Deck mit dem [Template aus dem Handbuch]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx). Dieses Inception Deck sollte sich auf die nächste Entwicklungsphase des Prime Pizza Geschäfts beziehen, z.B. auf das erste Release.
+Erstelle dann unter Zuhilfenahme der Informationen aus den vorangegangenen Lektionen das Inception Deck mit dem [Template aus dem Handbuch]({{site.baseurl}}/assets/downloads/07-inception-deck-jonathan-rasmusson.pptx). 
 
 Deine Erkenntnisse aus der Value Proposition helfen dir zum Beispiel beim Elevator Pitch und der Product Box.
 Dein Business Model Canvas ist eine Grundlage für die Beantwortung der Frage nach den Risiken, der ungefähren technischen Lösung und der NOT-List.
 Dein Stakeholder Mapping hilft dir bei der Beantwortung der Frage, wer eingebunden werden muss. 
 
-Das Inception Deck bietet sich außerdem zur Diskussion mit wichtigen Stakeholdern an. 
-Die Stakeholder Mapping bietet eine gute Grundlage für die Entscheidung, wen du zu einem gemeinsamen Workshop einladen solltest und wen nicht.
+Für die Frage wie lange es dauert, bis der volle Scope des Produkts erreicht ist (Punkt 8 des Inception Decks), musst du natürlich viele Annahmen treffen. Die Schätzung des Zeitraums bis zum ersten großen Meilenstein (Punkt 10) fällt dir wahrscheinlich leichter. 
 
 ## Lektionsabschluss
 
