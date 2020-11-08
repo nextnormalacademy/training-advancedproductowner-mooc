@@ -3,6 +3,8 @@ title: Vom Inception Deck und dem Value Model zur Roadmap
 permalink: /training/vom-inception-deck-und-dem-value-model-zur-roadmap/
 ---
 
+## Vom Inception Deck und dem Value Model zur Roadmap
+
 In der letzten Lektion hast du Feedback zu deinem Prime Pizza Business Model ausgehend von deinem [Nutzenmodell](https://manual.advancedproductowner.com/value-model/)erhalten. 
 Im Nutzenmodell hast du beschrieben, welchen Handlungsraum du in Bezug auf ein gewünschtes Ergebnis im Ergebnisraum durch dein Produkt (Wirkungsraum) nutzen kannst. 
 
