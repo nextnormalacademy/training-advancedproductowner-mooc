@@ -30,7 +30,7 @@ Lade
 
 - die Beschreibung des Feedback Loops vom Delivery Kanban zur Story Map
 
-[im Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=50006) hoch.
+[ins Aufgabenforum](https://www.oncampus.de/blocks/oc_mooc_nav/forum_view.php?showall=false&id=50006) hoch.
 
 ## Werkzeuge und Methoden
 
