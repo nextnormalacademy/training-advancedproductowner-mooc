@@ -7,7 +7,7 @@ Wie du sicherlich gemerkt hast, hat das Business Model Canvas ein zentrales Elem
 
 Das Wertangebot sieht in der Regel für unterschiedliche Kundensegmente anders aus.
 Das liegt an ihren unterschiedlichen Zielen. 
-Als Product Owner must du dir dieser Ziele bewusst sein, um fundierte Entscheidundungen zu treffen.
+Als Product Owner must du dir dieser Ziele bewusst sein, um fundierte Entscheidungen zu treffen.
 
 Kannst du die ehemalige Taxifahrerin Natalie mit dem gleichen Angebot zu begeistern wie Hanna die Party-Queen?
 Erreichst Du Informatikstudentin Anna-Franziska auf die gleiche Weise wie Giovanni, den Experten für Pizza-Soße?
