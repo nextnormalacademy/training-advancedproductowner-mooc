@@ -13,7 +13,7 @@ Mit welchen Features und Maßnahmen die Ziele erreicht werden sollen, hast du eb
 In der Lektion 8 hast du ein Stakeholder Onion Diagram und ein Power-Interest-Grid [Stakeholder Onion Diagram und ein Power-Interest-Grid](https://manual.advancedproductowner.com/stakeholder-mapping/) erstellt. 
 Damit hast du eine Übersicht über relevante Stakeholder gewonnen und diejenigen identifiziert, mit denen du dich verstärkt auseinandersetzen solltest.
 
-Nun bringst du in der [Impact Map](https://manual.advancedproductowner.com/impact-map/) ddie Ziele und Featureideen aus der Roadmap mit den Stakeholdern aus dem Stakeholder Mapping zusammen.
+Nun bringst du in der [Impact Map](https://manual.advancedproductowner.com/impact-map/) die Ziele und Featureideen aus der Roadmap mit den Stakeholdern aus dem Stakeholder Mapping zusammen.
 Mit kritischem Blick fragst du dich:  
 * Wer kann mir bei der Zielerreichung helfen? 
 * Wer kann mir schaden?
