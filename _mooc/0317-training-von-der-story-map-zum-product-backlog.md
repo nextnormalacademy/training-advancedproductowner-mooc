@@ -9,7 +9,7 @@ Du hast hierfür Informationen zu den [Personas] (https://manual.advancedproduct
 Nun gehst du dazu über, das erste [Product Backlog] (https://manual.advancedproductowner.com/product-backlog/) zu erstellen. 
 
 ## Aufgabe
-Lies dir den Eintrag zum [Product Backlog im Handbuch](https://manual.advancedproductowner.com/product-backlog/) durch. ergegenwärtige dir dann noch einmal deine Story Map und deine Impact Map, die du für den ersten Zeitraum auf deiner zielorientierten Roadmap aufgestellt hast. 
+Lies dir den Eintrag zum [Product Backlog im Handbuch](https://manual.advancedproductowner.com/product-backlog/) durch. Vergegenwärtige dir dann noch einmal deine Story Map und deine Impact Map, die du für den ersten Zeitraum auf deiner zielorientierten Roadmap aufgestellt hast. 
 
 Stelle dein Product Backlog für das erste Release deines Prime Pizza Angebots auf. 
 Hierfür kannst du die Story Map nutzen: markiere die Tasks, die du für das erste Release liefern musst. 
@@ -18,7 +18,7 @@ Du kannst dann in deiner Story Map eine Zeile für das erste Release einfügen u
 Möglicherweise gibt es für dein erstes Release zu erledigende Dinge, die nicht in deiner Story Map stehen. 
 Dies könnten zum Beispiel Gespräche mit Lieferanten sein. Notiere auch diese Dinge als Items für dein Backlog. 
 
-DDas Ergebnis ist eine Liste bestehend aus Tasks aus der Story Map und weiteren Items. 
+Das Ergebnis ist eine Liste bestehend aus Tasks aus der Story Map und weiteren Items. 
 Wenn du magst, kannst du die Tasks als User Stories formulieren. Ordne diese Liste, indem du 
 * die Items auf der Story Map und die ergänzenden Items nummerierst ODER
 * die Items aus der Story Map und die ergänzenden Items von oben nach unten ordnest, wobei die oben stehenden Items vor den weiter unten stehenden umgesetzt werden sollen
